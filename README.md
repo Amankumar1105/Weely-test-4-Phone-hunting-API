@@ -4,6 +4,7 @@ This project, Phone Hunting, is a web application that allows users to search fo
 Features Implemented
 Search Functionality: Users can search for phones using the search bar. The application fetches relevant data from the API based on the input and displays a list of matching phones.
 Modal Dialog for Details: Clicking the "SHOW DETAILS" button on any phone displays additional information about that phone in a modal dialog.
+
 JavaScript Functionality
 API Integration: The application uses the fetch API to retrieve data based on user input. This is done asynchronously to ensure a smooth user experience.
 Dynamic Content Rendering: JavaScript is used to dynamically create and display the phone details, including images and specifications.
